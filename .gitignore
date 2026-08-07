@@ -1,0 +1,12 @@
+# 运行缓存 / 依赖（不进版本库）
+.opc/
+.opc-comms/
+__pycache__/
+node_modules/
+.pytest_cache/
+
+# 系统文件
+.DS_Store
+
+# 临时 / 产物
+*.log
